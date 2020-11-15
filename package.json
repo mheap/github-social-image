@@ -1,11 +1,9 @@
 {
   "name": "github-social-image",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Automatically set your GitHub social images using https://socialify.git.ci/",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "keywords": [
     "GitHub",
     "Social",
