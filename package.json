@@ -4,7 +4,7 @@
   "description": "Automatically set your GitHub social images using https://socialify.git.ci/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "keywords": [
     "GitHub",
