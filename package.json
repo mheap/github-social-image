@@ -1,0 +1,27 @@
+{
+  "name": "github-social-image",
+  "version": "0.0.1",
+  "description": "Automatically set your GitHub social images using https://socialify.git.ci/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GitHub",
+    "Social",
+    "Image"
+  ],
+  "author": "Michael Heap <m@michaelheap.com> (https://michaelheap.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.0.9",
+    "debug": "^4.2.0",
+    "octokit-fetch-all-repos": "^1.0.4",
+    "puppeteer": "^5.4.1",
+    "request": "^2.88.2",
+    "yargs": "^16.1.1"
+  },
+  "bin": {
+    "github-social-image": "bin.js"
+  }
+}
